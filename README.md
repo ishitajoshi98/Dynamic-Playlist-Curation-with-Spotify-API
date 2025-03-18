@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores how to use the Spotify API to reorder a playlist based on tempo and energy, creating a dynamic party flow. The goal is to structure songs in a bell-curve fashion—starting slow, building up to a peak, and gradually slowing down as the party winds down.
+This project explores how to use the Spotify API to analyze and arrange a playlist based on tempo and energy, creating a dynamic party flow. The goal is to structure songs in a bell-curve fashion—starting slow, building up to a peak, and gradually slowing down as the party winds down.
 
 ## Features
 
